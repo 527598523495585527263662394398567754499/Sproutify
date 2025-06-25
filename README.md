@@ -22,7 +22,7 @@ pip install spotipy
 ```
 "client_id": "YOUR_CLIENT_ID",
 "client_secret": "YOUR_CLIENT_SECRET",
-"redirect_uri": "http://127.0.0.1:8000/callback"
+"redirect_uri": "YOUR_REDIRECT_URI"
 ```
 3. Create a Spotify app here: [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
 4. **Run the script**
@@ -35,7 +35,7 @@ Sproutify uses artist-related search terms to locate small public playlists, che
 # ✨ Customization
 Tweak any of the following options in `CONFIG`:
 ```
-"artist_list": ["SZA", "Jhené Aiko", "Sonder"],         # Artists to search for
+"artist_list": [],            # Artists to search for
 "pages": 5,                   # How deep to search per query
 "max_followers": 5,           # Only follow users with fewer than this
 "delay_range": (2.5, 6.0),    # Delay between requests
