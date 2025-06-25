@@ -5,7 +5,7 @@ from spotipy.exceptions import SpotifyException  # type: ignore
 CONFIG = {
     "client_id": 'YOUR_SPOTIFY_CLIENT_ID',
     "client_secret": 'YOUR_SPOTIFY_CLIENT_SECRET',
-    "redirect_uri": 'http://127.0.0.1:8000/callback',
+    "redirect_uri": 'YOUR_REDIRECT_URI',
     "scope": 'user-follow-modify playlist-read-private',
     "artist_list": ["SZA", "Jhené Aiko", "Sonder"],
     "pages": 5, "page_size": 50, "max_followers": 5,
