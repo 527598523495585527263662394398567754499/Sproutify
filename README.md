@@ -11,7 +11,7 @@ Sproutify finds underrated Spotify playlists featuring your favorite artists and
 # ⚙️ Setup
 1. **Clone the repo**
 ```
-git clone https://github.com/527598523495585527263662394398567754499/sproutify.git
+git clone https://github.com/pvcn/sproutify.git
 cd sproutify
 ```
 2. **Install dependencies**
