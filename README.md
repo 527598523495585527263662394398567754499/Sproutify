@@ -1,3 +1,4 @@
+![[s](https://github.com/527598523495585527263662394398567754499/Sproutify)](https://cdn.discordapp.com/attachments/1372948697998032977/1387375256523767948/daw.png?ex=685d1d65&is=685bcbe5&hm=ed307acbbe3197ac0cadc1ee6d7a9dc02578acd6111fc9665ef8c33e99dbb4db&)
 # 🌱 Sproutify
 Grow your network, one hidden curator at a time.
 Sproutify finds underrated Spotify playlists featuring your favorite artists and quietly follows their creators—organically expanding your musical circle with authentic, low-follower connections.
